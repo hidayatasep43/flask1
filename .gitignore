@@ -8,3 +8,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+settings.json
+started
+main.cpython-39.pyc
+__init__.cpython-39.pyc
+routes.cpython-39.pyc
